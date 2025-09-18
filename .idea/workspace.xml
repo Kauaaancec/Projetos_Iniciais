@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ea89727-2534-4551-8e9f-e23dd43341c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Projetos_Iniciais.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AnoBissexto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculadoraSimples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorDolar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConversorMetros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IMCSimples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JokenpoMaquina.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MediaNotas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Multas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuantidadeTinta.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReajusteSalario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tabuada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Triangulos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ValorPassagem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="3ea89727-2534-4551-8e9f-e23dd43341c0" name="Changes" comment="Python1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,16 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.CalculadoraSimples.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.CalculadoraSimples.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -102,11 +93,34 @@
       <workItem from="1758235470927" duration="13000" />
       <workItem from="1758235488110" duration="9000" />
       <workItem from="1758235512583" duration="10000" />
+      <workItem from="1758235534925" duration="347000" />
     </task>
+    <task id="LOCAL-00001" summary="Python1">
+      <option name="closed" value="true" />
+      <created>1758235687365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758235687365</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python1">
+      <option name="closed" value="true" />
+      <created>1758235699980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758235699980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Python1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Projetos_Iniciais$CalculadoraSimples.coverage" NAME="CalculadoraSimples Coverage Results" MODIFIED="1758235142906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
